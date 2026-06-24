@@ -20,14 +20,15 @@ tesis-lsec-asr-glosas/
 │
 ├── README.md
 │
-├── preprocesamiento_liprtve/
-│   ├── 01_preprocesamiento/
+├── 01_preprocesamiento_liprtve/
+│   ├── preprocesamiento.ipynb/
+│   ├── README.md
 │
-├── entrenamiento_evaluacion_whisper/
+├── 02_entrenamiento_evaluacion_whisper/
 │   ├── entrenamiento_evaluacion.ipynb
 │   ├── README.md
 │
-├── traduccion_texto_LSEC/
+├── 03_traduccion_texto_LSEC/
 │   ├── README.md
 │   ├── traduccion_texto_LSEC.ipynb
 │   ├── text_to_gloss.py
@@ -37,7 +38,7 @@ tesis-lsec-asr-glosas/
 │   ├── README.md
 │   ├── backend_inferencia.ipynb
 |
-├── backend_inferencia/
+├── frontend_inferencia/
 │   ├── README.md
 │   ├── 
 |
