@@ -10,3 +10,23 @@ El sistema implementa un flujo compuesto por:
 3. Conversión de texto en español a glosas de Lengua de Señas Ecuatoriana.
 4. Generación de una salida visual mediante concatenación de videos de señas.
 5. Inferencia de todo el flujo de voz a LSEC mediante interfaz usando backend y frontend.
+
+---
+
+## Estructura del repositorio
+
+```text
+tesis-lsec/
+│
+├── README.md
+├── requirements.txt
+├── environment.yml
+├── .gitignore
+│
+├── notebooks/
+│   ├── 01_preprocesamiento/
+│   ├── 02_entrenamiento_whisper/
+│   ├── 03_evaluacion_wer/
+│   ├── 04_texto_a_glosas/
+│   └── 05_backend_colab/
+│
