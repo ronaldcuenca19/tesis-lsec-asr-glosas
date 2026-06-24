@@ -16,17 +16,29 @@ El sistema implementa un flujo compuesto por:
 ## Estructura del repositorio
 
 ```text
-tesis-lsec/
+tesis-lsec-asr-glosas/
 │
 ├── README.md
-├── requirements.txt
-├── environment.yml
-├── .gitignore
 │
-├── notebooks/
+├── preprocesamiento_liprtve/
 │   ├── 01_preprocesamiento/
-│   ├── 02_entrenamiento_whisper/
-│   ├── 03_evaluacion_wer/
-│   ├── 04_texto_a_glosas/
-│   └── 05_backend_colab/
 │
+├── entrenamiento_evaluacion_whisper/
+│   ├── entrenamiento_evaluacion.ipynb
+│   ├── README.md
+│
+├── traduccion_texto_LSEC/
+│   ├── README.md
+│   ├── traduccion_texto_LSEC.ipynb
+│   ├── text_to_gloss.py
+│   └── gloss_to_video.py
+|
+├── backend_inferencia/
+│   ├── README.md
+│   ├── backend_inferencia.ipynb
+|
+├── backend_inferencia/
+│   ├── README.md
+│   ├── 
+|
+|
