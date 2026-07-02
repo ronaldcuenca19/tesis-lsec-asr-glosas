@@ -23,7 +23,7 @@ tesis-lsec-asr-glosas/
 │
 ├── 01_entrenamiento_evaluacion_whisper/
 │   ├── entrenamiento_evaluacion.ipynb
-│   ├── README.md
+│   └── README.md
 │
 ├── 02_traduccion_texto_LSEC/
 │   ├── README.md
@@ -34,8 +34,8 @@ tesis-lsec-asr-glosas/
 ├── 03_inferencia/
 │   ├── backend_inferencia/
 |   |   ├── backend_inferencia.ipynb
-|   |   ├── README.md
+|   |   └── README.md
 |   ├── frontend_inferencia/
-│       ├── README.md
+│       └── README.md
 |
 |
