@@ -1,0 +1,3161 @@
+edad : año
+intensamente : mucho
+cena : Alimentacion
+hoy : ahora
+anoche : ayer noche
+libreria : biblioteca
+jardin : patio
+cada día : A diario
+al costado : A lado
+tras mucho tiempo : A los tiempos
+por medio de : A traves
+en ocasiones : A veces
+portaestandarte : Abanderado(a)
+desertar : Abandonar
+alfabeto : Abecedario
+jurista : Abogado(a)
+pagar : Abonar
+pago : Abono
+botonar : Abotonar
+estrechar : Abrazar
+apretón : Abrazo
+sigla : Abreviatura
+aperturar cuenta : Abrir cuenta
+sujetar : Abrochar
+imbibir : Absorber
+privación : Abstinencia
+copioso : Abundante
+tedioso : Aburrido(a)
+tedio : Aburrimiento
+extralimitarse : Abusar
+entrada : Acceso
+percance : Accidente
+acto : Accion
+lubricante : Aceite
+apresurar : Acelerar
+vereda : Acera
+ardor gástrico : Acidez estomacal
+atemorizado : Acobardado(a)
+escoltar : Acompañar
+suavizante : Acondicionador
+orientar : Aconsejar
+habituarse : Acostumbrarse
+disposición : Actitud
+habilitar : Activar
+renovación : Actualizacion
+amontonar : Acumular
+imputar : Acusar
+adecuación : Adaptacion
+adecuar : Adaptar
+precoz : Adelantado(a)
+delante : Adelante
+asimismo : Ademas
+dependiente : Adicto(a)
+acaudalado : Adinerado(a)
+chau : Adios
+acertijo : Adivinanza
+intuir : Adivinar
+acoplar : Adjuntar
+gestión : Administracion
+gestor : Administrador(a)
+loable : Admirable
+pubertad : Adolescencia
+púber : Adolescente
+acogimiento : Adopcion
+acoger : Adoptar
+veneración : Adoracion
+engalanar : Adornar
+ornamento : Adorno
+infidelidad : Adulterio
+fornicario : Adultero
+madurez : Adultez
+aviso : Advertencia
+noticiar : Advertir
+póster : Afiche
+aguzar : Afilar
+inscrito : Afiliado(a)
+adscribir : Afiliar
+exteriormente : Afuera
+operadora turística : Agencia de viaje
+planificador : Agenda
+sacudir : Agitar
+extenuarse : Agotarse
+gratitud : Agradecimiento
+incorporar : Agregar
+cultivo : Agricultura
+concentrar : Agrupar
+agua salubre : Agua potable
+soportar : Aguantar
+alfiler : Aguja
+actualmente : Ahora
+estrangular : Ahorcar
+economizar : Ahorrar
+economización : Ahorro
+brisa : Aire
+calibrar : Ajustar
+calibración : Ajuste
+elogio : Alabanza
+elogiar : Alabar
+sirena : Alarma
+constructor : Albañil
+hospedar : Albergar
+hospedería : Albergue
+colección fotográfica : Album de fotos
+burgomaestre : Alcalde
+hucha : Alcancia
+sumidero : Alcantarilla
+desagüe : Alcantarillado
+picaporte : Aldaba
+júbilo : Alegria
+distanciarse : Alejarse
+hipersensibilidad : Alergia
+vigilancia : Alerta
+alarmar : Alertar
+elemento : Algo
+ingesta : Alimentacion
+comestible : Alimento
+condimentar : Aliñar
+mitigar : Aliviar
+consuelo : Alivio
+allende : Alla
+yantar : Almorzar
+arrendar : Alquilar
+arrendamiento : Alquiler
+parlante : Altavoz
+disyuntiva : Alternativa
+elevado : Alto(a)
+cota : Altura
+delirar : Alucinar
+dueña de casa : Ama de casa
+gualdo : Amarillo(a)
+atar : Amarrar
+sobar : Amasar
+codicia : Ambicion
+codicioso : Ambicioso
+intimidado : Amedrentado(a)
+intimidarse : Amedrentarse
+intimidación : Amenaza
+intimidar : Amenazar
+amigo cercano : Amigo intimo
+camaradería : Amistad
+reprimenda : Amonestacion
+afecto : Amor
+ensanchar : Ampliar
+adicionar : Añadir
+valoración : Analisis
+morfología : Anatomia
+amplio : Ancho(a)
+senescente : Anciano(a)
+palidez : Anemia
+insensibilización : Anestesia
+insensibilizar : Anestesiar
+estrecho : Angosto(a)
+inclinación : Angulo
+sortija : Anillo
+efeméride : Aniversario
+lapso : Año
+apuntar : Anotar
+inquieto : Ansioso(a)
+previo : Anterior
+previamente : Antes
+adelanto : Anticipo
+antifecundante : Anticonceptivo
+desfasado : Anticuado(a)
+vetusto : Antiguo(a)
+hosco : Antipatico(a)
+contrario : Antonimo
+etnología : Antropologia
+mostrador : Aparador
+aislado : Aparte
+entusiasmar : Apasionar
+patronímico : Apellido
+heder : Apestar
+hediondo : Apestoso(a)
+aplanar : Aplastar
+ovacionar : Aplaudir
+posponer : Aplazar
+sobrenombre : Apodo
+contribuir : Aportar
+secundar : Apoyar
+instruirse : Aprender
+ceñido : Apretado(a)
+oprimir : Apretar
+admitido : Aprobado(a)
+autorizar : Aprobar
+oportunista : Aprovechado(a)
+capitalizar : Aprovechar
+circa : Aproximadamente
+premura : Apuro
+juez : Arbitro
+arbusto : Arbol
+fichero : Archivador
+expediente : Archivo
+extensión : Area
+arenilla : Arena
+premisa : Argumento
+arsenal : Armamento
+tironear : Arrastrar
+reparar : Arreglar
+superiormente : Arriba
+pliegue : Arruga
+fruncir : Arrugar
+creación : Arte
+manualista : Artesano(a)
+coyuntura : Articulacion
+texto : Articulo
+atracador : Asaltante
+atracar : Asaltar
+atraco : Asalto
+pleno : Asamblea
+legislador : Asambleista
+repugnancia : Asco
+limpieza : Aseo
+asina : Asi
+butaca : Asiento
+interiorizar : Asimilar
+concurrir : Asistir
+agrupación : Asociacion
+maravillarse : Asombrarse
+rugoso : Aspero(a)
+succionadora : Aspiradora
+amedrentar : Asustar
+agredir : Atacar
+ocuparse : Atender
+cuidadoso : Atento
+testificar : Atestiguar
+descarado : Atorrante
+rezagado : Atrasado(a)
+postergar : Atrasar
+osado : Atrevido(a)
+arrollar : Atropellar
+auricular : Audifono
+multimedia : Audiovisual
+recinto : Aula
+incrementar : Aumentar
+autovaloración : Autoevaluacion
+mecánico : Automatico(a)
+escritor : Autor(a)
+potestad : Autoridad
+déspota : Autoritario
+socorro : Auxilio
+fianza : Aval
+adelantar : Avanzar
+bulevar : Avenida
+peripecia : Aventura
+apenado : Avergonzado(a)
+apenarse : Avergonzarse
+sondear : Averiguar
+notificar : Avisar
+sobaco : Axila
+víspera : Ayer
+colaboración : Ayuda
+escardillo : Azadon
+aeromoza : Azafata
+sacarosa : Azucar
+azucarero : Azucarera
+añil : Azul
+saliva : Baba
+papayuela : Babaco
+salivar : Babear
+pringoso : Baboso(a)
+limaza : Babosa
+ofidio : Boa
+muestreo : Biopsia
+salivear : Babosear
+preuniversitario : Bachillerato
+microbio : Bacteria
+danzable : Bailable
+danzar : Bailar
+danzante : Bailarin(a)
+decaer : Bajar
+reducido : Bajo(a)
+báscula : Balanza
+mirador : Balcon
+cubeta : Balde
+natación artística : Ballet acuatico
+encestador : Basquetbolista
+duchar : Bañar
+bancario : Banca
+financiera : Banco
+internet veloz : Banda ancha
+charola : Bandeja
+estandarte : Bandera
+banderín : Banderilla
+cantina : Bar
+naipe : Baraja
+aleatorizar : Barajar
+perilla : Barba
+barbado : Barbudo
+embarcación : Barco
+cantinero : Barman
+escobero : Barrendero(a)
+escobar : Barrer
+obstáculo : Barrera
+panzón : Barrigon
+vecindario : Barrio
+apoyo : Base
+elemental : Basico(a)
+suficiente : Basta
+sobremanera : Bastante
+desecho : Basura
+vertedero : Basurero
+guardapolvo : Bata
+combate : Batalla
+mezclador : Batidora
+arcón : Baul
+cristianar : Bautizar
+cristianamiento : Bautizo
+abrevadero : Bebedero
+subvención : Beca
+baseball : Beisbol
+consagrar : Bendecir
+gracia : Bendicion
+favorecer : Beneficiar
+pirotecnia : Bengala
+aubergina : Berenjena
+óscular : Besar
+ósculo : Beso
+mamadera : Biberon
+escritura : Biblia
+referencias : Bibliografia
+mediateca : Biblioteca
+cleta : Bicicleta
+bmx : Bicicros
+adecuadamente : Bien
+muy bien : Bien hecho
+acogido : Bienvenido(a)
+mostacho : Bigote
+políglota : Bilingue
+plurilingüismo : Bilinguisimo
+pool : Billar
+pagaré : Billete
+carterín : Billetera
+milmillón : Billon
+biperiodo : Bimestre
+dual : Bimodal
+tómbola : Bingo
+biociencia : Biologia
+enzimologia : Bioquimica
+biofrecuencia : Biorresonancia
+tatarabuelo : Bisabuelo(a)
+ambisexual : Bisexual
+tataranieto : Bisnieto(a)
+escalpelo : Bisturi
+albo : Blanco(a)
+fofo : Blando(a)
+pieza : Bloque
+obstruir : Bloquear
+obstruido : Bloqueado(a)
+atascarse : Bloquearse
+disco óptico : Blue ray
+inalámbrico : Bluetooth
+blusón : Blusa
+lelo : Bobo
+hocico : Boca
+sin hablar : Boca cerrada
+pasabocas : Bocaditos
+casamiento : Boda
+despensa : Bodega
+almacenista : Bodeguero(a)
+gorro : Boina
+panecillo : Bolillo
+mazacote : Bolon
+mercado bursátil : Bolsa de valores
+faltriquera : Bolsillo
+artefacto : Bomba
+tambora : Bombo
+benignidad : Bondad
+benévolo : Bondadoso
+atractivo : Bonito(a)
+recamar : Bordar
+esbozo : Borrador
+arboleda : Bosque
+boquear : Bostezar
+boquezo : Bostezo
+arrojar : Botar
+derrochador : Botarate
+botines : Botas
+frasco : Botella
+mediquero : Botiquin
+pulsador : Boton
+luchar : Boxear
+púgil : Boxeador(a)
+pugilismo : Boxeo
+flotador : Boya
+cierre abierto : Brageta abierta
+zíper : Bragueta
+relieve : Braille
+furibundo : Bravo
+apéndice : Brazo
+relucir : Brillar
+lustroso : Brillante
+lustre : Brillo
+toast : Brindis
+pincelón : Brocha
+brécol : Brocoli
+chanza : Broma
+burla cruel : Broma pesada
+chistoso : Bromista
+bronceante : Bronceador
+tostarse : Broncearse
+hechicero : Brujo(a)
+zoquete : Bruto(a)
+sumergirse : Bucear
+inmersión : Buceo
+submarinista : Buzo
+iluminado : Buda
+que aproveche : Buen provecho
+feliz noche : Buenas noches
+feliz tarde : Buenas tardes
+adecuado : Bueno(a)
+feliz día : Buenos dias
+novillo : Buey
+tecolote : Buho
+chispero : Bujia
+voracidad : Bulimia
+alboroto : Bulla
+mofar : Burlarse
+asno : Burro
+ómnibus : Bus
+rastreo : Busqueda
+microbús : Buseta
+sudadera : Buso
+casilla : Buzon
+pechera : Babero
+exacto : Cabal
+hidalgo : Caballero
+equino : Caballo
+hipocampo marino : Caballo de mar
+melena : Cabello
+testa : Cabeza
+cable ethernet : Cable de red
+cría : Cachorro
+encadenamiento : Cadena
+anca : Cadera
+vencido(a) : Caducado(a)
+expirar : Caducar
+desplomarse : Caer
+infusión : Cafe
+café solo : Cafe puro
+percoladora : Cafetera
+merendero : Cafeteria
+receptáculo : Caja
+fondo menor : Caja chica
+caja blindada : Caja fuerte
+dispensador bancario : Cajero automatico
+gaveta : Cajon
+cefalópodo : Calamar
+sumadora : Calculadora
+computar : Calcular
+cómputo : Calculo
+consomé : Caldo
+calentamiento : Calefaccion
+radiador : Calefactor
+almanaque : Calendario
+templar : Calentar
+puntuación : Calificacion
+grafía : Caligrafia
+silencioso : Callado
+serenar : Calmar
+lampiño : Calvo(a)
+trusa : Calzoncillo
+lecho : Cama
+trampolín elástico : Cama elastica
+máquina fotográfica : Camara de fotos
+variación : Cambio
+giro total : Cambio radical
+dromedario : Camello
+parihuela : Camilla
+sendero : Camino
+transportista : Camionero
+pickup : Camioneta
+playera : Camiseta
+vivac : Campamento
+cencerro : Campana
+ganador(a) : Campeon(a)
+torneo : Campeonato
+canicie : Cana
+jilguero : Canario
+cesto : Canasta
+pista : Cancha
+postulante : Candidato(a)
+especia : Canela
+palomitas : Canguil
+marsupial : Canguro
+antropófago : Canibal
+bolitas : Canicas
+desfiladero : Cañon
+encanecido(a) : Canoso(a)
+fatigado(a) : Cansado(a)
+fatiga : Cansancio
+entonar : Cantar
+monto : Cantidad
+desorden : Caos
+aptitud : Capacidad
+apto(a) : Capaz
+metrópoli : Capital
+comandante : Capitan
+episodio : Capitulo
+caperuza : Capucha
+rostro : Cara
+sello o cara : Cara o cruz
+molusco : Caracol
+rasgo : Caracteristica
+penal : Carcel
+cargante : Cargador
+transportar : Cargar
+puesto : Cargo
+picadura : Caries
+afectuoso : Cariñoso
+costosísimo(a) : Carisimo(a)
+magnetismo : Carisma
+magnético(a) : Carismatico(a)
+carnestolendas : Carnaval
+matadero : Carniceria
+oneroso : Caro
+fólder : Carpeta
+fólder archivador : Carpeta archivadora
+ebanista : Carpintero
+competencia motociclística : Carrera de motos
+carretón : Carretilla
+vagoneta : Carrito
+automóvil : Carro
+tiovivo : Carrusel
+misiva : Carta
+lapicera : Cartuchera
+cápsula : Cartucho
+opalina : Cartulina
+desposado(a) : Casado(a)
+desposarse : Casarse
+yelmo : Casco
+cassette : Casete
+garito : Casino
+descamación : Caspa
+marrón : Castaño
+fortaleza : Castillo
+fortuito(a) : Casual
+seo : Catedral
+rubro : Categoria
+motivo : Causa
+provocar : Causar
+excavar : Cavar
+montero : Cazador
+bulbo : Cebolla
+documento de identidad : Cedula de identidad
+festejo : Celebracion
+festejar : Celebrar
+azulado : Celeste
+posesivo(a) : Celoso(a)
+móvil : Celular
+camposanto : Cementerio
+argamasa : Cemento
+empadronar : Censar
+empadronamiento : Censo
+centenar : Centena
+plaza comercial : Centro comercial
+restregar : Cepillar
+lavar los dientes : Cepillar los dientes
+cepillo dental : Cepillo de dientes
+parafina : Cera
+loza : Ceramica
+próximo : Cerca
+gramínea : Cereal
+encéfalo : Cerebro
+rito : Ceremonia
+guinda : Cereza
+tamiz : Cernidor
+tamizar : Cernir
+llavero(a) : Cerrajero(a)
+certidumbre : Certeza
+constancia de depósito : Certificado de deposito
+acreditar : Certificar
+valídeme este cheque : Certifiqueme este cheque
+birra : Cerveza
+grama : Cesped
+cebiche : Ceviche
+rebozo : Chal
+chaquetilla : Chaleco
+shampoo : Champu
+cerdo : Chancho
+campera : Chaqueta
+plática : Charla
+armazón : Chasis
+mensajería : Chat
+mensajear : Chatear
+talonario : Chequera
+abultamiento : Chichon
+silbido : Chiflido
+microchip : Chip
+annona : Chirimoya
+boquirroto(a) : Chismoso(a)
+impactar : Chocar
+mazorca : Choclo
+embutido : Chorizo
+gotear : Chorrear
+cabaña : Choza
+tetina : Chupete
+caracolillo : Churo
+pedalismo : Ciclismo
+pedalista : Ciclista
+ciclo hidrológico : Ciclo de agua
+curso vital : Ciclo vital
+firmamento : Cielo
+miriápodo : Ciempies
+ciencias de la naturaleza : Ciencias naturales
+investigador(a) : Cientifico(a)
+sellado : Cierre
+pitillo : Cigarro
+coriandro : Cilantro
+cinematógrafo : Cine
+cinta pegante : Cinta adhesiva
+talle : Cintura
+correa : Cinturon
+arnés de seguridad : Cinturon de seguridad
+flujo sanguíneo : Circulacion sanguinea
+redondel : Circulo
+pruna : Ciruela
+uva seca : Ciruela pasa
+operador(a) : Cirujano(a)
+protoplasma : Citoplasma
+urbe : Ciudad
+habitante : Ciudadano(a)
+cívico(a) : Civil
+nítido(a) : Claro(a)
+organizador : Clasificador
+ordenarse : Clasificarse
+cerrado(a) : Clausurado(a)
+chantar : Clavar
+contraseña : Clave
+puntilla : Clavo
+pulsación : Clic
+comprador : Cliente
+sanatorio : Clinica
+sujetapapeles : Clip
+lejía : Cloro
+pusilánime : Cobarde
+frazada : Cobija
+recaudador(a) : Cobrador(a)
+recaudar : Cobrar
+carruaje : Coche
+guisar : Cocinar
+combinado : Coctel
+agitadora : Coctelera
+misil : Cohete
+casualidad : Coincidencia
+rengo(a) : Cojo(a)
+repollo : Col
+cabello recogido : Cola de caballo
+coadyuvar : Colaborar
+lavado : Colada
+liceo : Colegio
+ira : Colera
+lípido : Colesterol
+picaflor : Colibri
+brasicácea : Coliflor
+gargantilla : Collar
+abarrotado : Colmado
+urbanización : Colonia
+poblador : Colono
+pilar : Columna
+balancearse : Columpiarse
+refectorio : Comedor
+observación : Comentario
+traficar : Comerciar
+morderse las uñas : Comerse las uñas
+papalote : Cometa
+vianda : Comida
+confortable : Comodo(a)
+cotejo : Comparacion
+equiparar : Comparar
+enrevesado(a) : Complejo(a)
+enredarse : Complicarse
+conducta : Comportamiento
+mercar : Comprar
+ordenador : Computadora
+interacción : Comunicacion
+colectividad : Comunidad
+marxismo : Comunismo
+marxista : Comunista
+será un placer : Con mucho gusto
+edil : Concejal
+focalizarse : Concentrarse
+consciencia : Conciencia
+recital : Concierto
+lacónico(a) : Conciso(a)
+finalizar : Concluir
+deducción : Conclusion
+armonía : Concordancia
+certamen : Concurso
+preservativo : Condon
+piloto(a) : Conductor(a)
+enchufar : Conectar
+lepórido : Conejo
+ponencia : Conferencia
+seguridad : Confianza
+ajuste manual : Configuracion manual
+corroborar : Confirmar
+freezer : Congelador
+grupo de elementos : conjunto de elementos
+dominación : Conquista
+dominar : Conquistar
+celador : Conserje
+videoconsola : Consola
+edificación : Construccion
+paso sobre el río : Construccion elevada sobre un rio
+edificar : Construir
+diplomático : Consul
+asesoría : Consulta
+asesor(a) : Consultor(a)
+contaduría : Contabilidad
+vínculo : Contacto
+contable : Contador(a)
+transmitir : Contagiar
+transmisible : Contagioso(a)
+enumerar : Contar
+gozoso(a) : Contento(a)
+proseguir : Continuar
+acuerdo : Contrato
+supervisión : Control
+revisión previa : Control previo
+mando a distancia : Control remoto
+persuadir : Convencer
+diálogo : Conversacion
+citar : Convocar
+citación : Convocatoria
+gestor(a) : Coordinador(a)
+duplicadora : Copiadora
+duplicadora de llaves : Copiadora de llaves
+duplicados : Copias
+flirtear : Coquetear
+cardias : Corazon
+amor romántico : Corazon enamorado
+serranía : Cordillera
+rectificar : Correccion
+acertado : Correcto
+enmendador : Corrector
+trottar : Correr
+cohecho : Corrupcion
+sobornable : Corrupto(a)
+servicio suspendido : Cortado el servicio
+seccionar : Cortar
+amabilidad : Cortesia
+visillo : Cortina
+breve : Corto(a)
+recolección : Cosecha
+recolectar : Cosechar
+zurcir : Coser
+litoral : Costa
+costillar : Costilla
+hábito : Costumbre
+habitual : Cotidiano(a)
+hisopo : Cotonete
+calavera : Craneo
+originar : Crear
+inventiva : Creatividad
+ingenioso(a) : Creativo(a)
+financiamiento : Credito
+espuma de afeitar : Crema de afeitar
+loción de manos : Crema de manos
+rizado : Crespo
+delincuente : Criminal
+colapso : Crisis
+creyente : Cristiano(a)
+cuestionamiento : Critica
+cuestionar : Criticar
+temporizador : Cronometro
+crucifijo : Cruz
+entrelazar las piernas : Cruzar las piernas
+libreta : Cuaderno
+cuadrilátero : Cuadrado
+indistinto(a) : Cualquier(a)
+agrietarse : Cuartearse
+navajón : Cuchillo
+pescuezo : Cuello
+caverna : Cueva
+precaución : Cuidado
+responsabilidad : Culpa
+responsabilizar : Culpar
+civilización : Cultura
+educación física : Cultura fisica
+moisés : Cuna
+párroco : Cura
+sanación : Curacion
+sanador(a) : Curandero(a)
+sanar : Curar
+inquisitivo : Curioso
+esparadrapo, vendaje : Curita
+itálica : Cursiva
+materia : Curso
+arqueo : Curva
+ilustración animada : Dibujo animado
+brindar refugio : Dar asilo
+adónde : Donde
+propagar : Difundir
+propagación : Difusion
+cubo : Dado
+féminas : Damas
+suministrar : Dar
+tener un hijo : Dar a luz
+caer en cuenta : Darse cuenta
+dejar de luchar : Darse por vencido(a)
+referencia : Dato
+de ahora en adelante : De aqui en adelante
+mientras : Durante
+de cara : De frente
+con parentesco sanguíneo : De la misma sangre
+no hay de qué : De nada
+en posición vertical : De pie
+de repente : De pronto
+polémica : Debate
+controvertir : Debatir
+tareas : Deberes
+frágil : Debil
+determinar : Decidir
+determinación : Decision
+expresar : Decir
+manifestar : Declarar
+deterioro : Declive
+evacuar : Defecar
+amparar : Defender
+distorsionar : Deformar
+distorsionado(a) : Deforme
+ceder : Dejar
+mandil : Delantal
+emisario(a) : Delegado(a)
+soletrar : Deletrear
+esbelto(a) : Delgado(a)
+finura : Delicadeza
+sabroso(a) : Delicioso(a)
+infracción : Delito
+querellar : Demandar
+requerimiento : Demanda
+excesivamente : Demasiado
+facilíteme su número : Deme su numero
+pluralista : Democratico(a)
+maligno : Demonio
+retardar : Demorar
+atrasarse : Demorarse
+prótesis dental : Dentadura postiza
+reportar : Denunciar
+área financiera : Departamento financiero
+varía : Depende
+supeditarse : Depender
+rasurar : Depilar
+expulsado(a) : Deportado(a)
+consignación : Deposito
+abatirse : Deprimirse
+abatimiento : Depresion
+abatido(a) : Deprimido(a)
+tumbar : Derribar
+revés : Derrota
+desarropar : Desabrigar
+desajustar : Desabrochar
+inhabilitar : Desactivar
+desenchufar : Desconectar
+disgustar : Desagradar
+desafecto : Desamor
+esfumarse : Desaparecer
+desplegar : Desarrollar
+reposar : Descansar
+pausa : Descanso
+desviar : Descarriar
+prole : Descendencia
+averiar : Descomponer
+desorientar : Desconcertar
+confuso(a) : Desconcertado(a)
+recelo : Desconfianza
+ignoto(a) : Desconocido(a)
+ignoto : Desconocido
+ignorancia : Desconocimiento
+caracterizar : Describir
+caracterización : Descripcion
+revelar : Descubrir
+partiendo : Desde
+anhelo : Deseo
+desligarse : Desentenderse
+mentalmente inestable : Desequilibrado(a) mental
+angustiado(a) : Desesperado
+pasarela : Desfile
+erial : Desierto
+inequidad : Desigualdad
+deshinchar : Desinflar
+desenvuelto(a) : Desinhibido(a)
+desmontar : Desinstalar
+derrumbe : Deslave
+escurrir : Deslizar
+desvanecerse : Desmayarse
+desvestido(a) : Desnudo(a)
+incumplir : Desobedecer
+antitranspirante : Desodorante
+caótico(a) : Desordenado(a)
+desarticular : Desorganizar
+lentamente : Despacio
+cesar : Despedir
+alborotarse : Despeinarse
+alborotado(a) : Despeinado(a)
+desollar : Despellejar
+malgastar : Desperdiciar
+separarse : Desprenderse
+posteriormente : Despues
+abridor : Destapador
+aflojar : Destornillar
+desarmador : Destornillador
+habilidad : Destreza
+arrasar : Destruir
+devastación : Destruccion
+inferioridad : Desventaja
+desnudar : Desvestir
+desnudarse : Desvestirse
+variante : Desvio
+disociar : Desvincular
+pormenorizar : Detallar
+pormenor : Detalle
+minucioso(a) : Detallista
+limpiador : Detergente
+tras : Detras
+adeudo : Deuda
+jornada : Dia
+hiperglucemia : Diabetes
+infernal : Diablo
+cintillo : Diadema
+membrana : Diafragma
+sesgado(a) : Diagonal
+gema : Diamante
+filmina : Diapositiva
+disentería : Diarrea
+ilustrador(a) : Dibujante
+ilustrar : Dibujar
+ilustración técnica : Dibujo tecnico
+lexicón : Diccionario
+autoritarismo : Dictadura
+arduo(a) : Dificil
+decorosa : Digna
+decoro : Dignidad
+honorable : Digno(a)
+enérgico(a) : Dinamico(a)
+numerario : Dinero
+saurio : Dinosaurio
+deidad : Dios
+orientativos(as) : Direccionales
+lineamiento : Directiva
+franco(a) : Directo(a)
+dirigente : Director(a)
+lista telefónica : Directorio telefonico
+limitación : Discapacidad
+limitación auditiva : Discapacidad auditiva
+limitación motriz : Discapacidad fisica
+limitación cognitiva : Discapacidad intelectual
+rigor : Disciplina
+normar : Disciplinar
+aprendiz : Discipulo
+almacenamiento interno : Disco duro
+antro : Discoteca
+segregar : Discriminar
+segregado(a) : Discriminado(a)
+excusar : Disculpar
+excusa : Disculpa
+argüir : Discutir
+controversia : Discusion
+creativo visual : Diseñador(a) grafico
+concebir : Diseñar
+trazado : Diseño
+caracterizarse : Disfrazarse
+atuendo : Disfraz
+gozar : Disfrutar
+sigilosamente : Disimuladamente
+diluir : Disolver
+detonar : Disparar
+tiro : Disparo
+método intrauterino : Dispositivo intrauterino
+lejanía : Distancia
+lejano(a) : Distante
+entretener : Divertir
+fraccionar : Dividir
+partir en dos : Dividir en dos
+compartir el gasto : Dividirse el gasto
+separación : Division
+ruptura : Divorcio
+publicar : Divulgar
+discjockey : Dj
+plegar : Doblar
+gemelo(a) : Doble
+médico(a) : Doctor
+escrito : Documento
+papeles : Documentos
+penique : Dolar
+molestia : Dolor
+aportaciones : Donaciones
+áureo(a) : Dorado(a)
+dormitar : Dormir
+habitación : Dormitorio
+teatralizar : Dramatizar
+teatralización : Dramatizacion
+narcótico : Droga
+toxicomanía : Drogadiccion
+toxicómano(a) : Drogadicto(a)
+asearse : Ducharse
+regadera : Ducha
+elfo : Duende
+azucarado(a) : Dulce
+copiado(a) : Duplicado(a)
+copiador de dvd : Duplicador de dvd
+resistente : Durable
+longevo(a) : Duradero
+melocotón : Durazno
+rígido(a) : Duro(a)
+significado : Definicion
+efectivo líquido : Dinero disponible
+decrecer : descender
+liberarse : Desahogarse
+fundir : Derretir
+incauto(a) : Desprevenido
+exactamente igual : De identico
+con honradez : De honesto
+de presentarse : De acudir
+por llamada : De telefono
+de contraste : De comparacion
+de nivel : De grado
+de la aritmética : De la matematicas
+en menor medida : De menor cantidad
+de rechazo : De negacion
+de maquillaje : De cosmetico
+en disco óptico : De cd o dvd
+del horóscopo : Del zodiaco
+del vehículo : De autos
+del torneo : De competencia
+videodisco : Dvd
+estropear : Dañar
+averiado(a) : Dañado(a)
+gestualidad : Expresion
+atónito(a) : Estupefacto(a)
+en la estación : En la parada
+ocultar propósito : Encubrir intencion
+diseminar : Esparcir
+en metálico : En billetes o en monedas
+cómo puedo asistirle : En que le puedo ayudar
+todo correcto : Esta bien
+escotadura : Escote
+de forma breve : En pocas palabras
+en un término : En una palabra
+perdido(a) : Extraviado(a)
+ultrasonido : Ecografia
+bioma : Ecosistema
+inmueble : Edificio
+retocar : Editar
+instrucción : Educacion
+liquidez inmediata : Efectivo disponible
+burbujeante : Efervescente
+narcisista : Egocentrico
+mezquino(a) : Egoista
+consumar : Ejecutar
+entrenamiento : Ejercicio
+corriente : Electricidad
+instalador(a) : Electricista
+cardiógrafo : Electrocardiografo
+cardiograma : Electrocardiograma
+distinguido(a) : Elegante
+legación : Embajada
+gestación no planificada : Embarazo inesperado
+gestación : Embarazo
+gestante : Embarazada
+untar : Embarrar
+urgencia : Emergencia
+remitente : Emisor(a)
+excitación : Emocion
+embalar : Empacar
+empanadilla : Empanada
+saturarse : Empaparse
+nivelar : Empatar
+obstinarse : Empecinarse
+trabajadora del hogar : Empleada domestica
+asalariado(a) : Empleado(a)
+ocupación : Empleo
+innovador(a) : Emprendedor(a)
+compañía : Empresa
+inversionista : Empresario(a)
+a la baja : En descenso
+a primera hora : En la mañana
+cara a cara : En persona
+sin grabación : En vivo
+fustán : Enagua
+apasionado(a) : Enamorado(a)
+prendarse : Enamorarse
+deslumbrar : Encandilar
+comisionar : Encargar
+pedido : Encargo
+avivar : Encender
+prendido(a) : Encendido
+compendio : Enciclopedia
+ubicar : Encontrar
+hallarse : Encontrarse
+confluencia : Encuentro
+videoendoscopia : Endoscopia
+adversario(a) : Enemigo(a)
+indisponerse : Enfermar
+indispuesto(a) : Enfermo
+afección : Enfermedad
+persona trastornada : Enfermo(a) mental
+afrontar : Enfrentar
+oponerse : Enfrentarse
+delante de : Enfrente de
+airar : Enfurecer
+ardid : Engaño
+adherirse : Engancharse
+líquido antiséptico : Enjuague bucal
+trastornarse : Enloquecer
+router : Enrutador
+instruir : Enseñar
+discernir : Entender
+informarse : Enterarse
+sepultar : Enterrar
+ingresar : Entrar
+adiestrarse : Entrenarse
+inmiscuirse : Entrometerse
+intruso : Entrometido
+remitir : Enviar
+codiciar : Envidiar
+codicioso(a) : Envidioso(a)
+celo : Envidia
+enlutarse : Enviudar
+era : Epoca
+bagaje : Equipaje
+bando : Equipo
+sistema de audio : Equipo de sonido
+igualitario(a) : Equitativo(a)
+justicia : Equidad
+trocar : Equivocarse
+crispar : Erizar
+equivocación : Error
+trepar : Escalar
+digitalizar : Escanear
+digitalizador : Escaner
+fugarse : Escapar
+coleóptero : Escarabajo
+siervo(a) : Esclavo(a)
+servidumbre : Esclavitud
+estudiantil : Escolar
+custodio(a) : Escolta
+agazapado(a) : Escondido(a)
+furtivamente : Escondidas
+carabina : Escopeta
+hioscina : Escopolamina
+alacrán : Escorpion
+redactor(a) : Escritor(a)
+buró : Escritorio
+bolsa : Escroto
+blasón : Escudo
+blasón ecuatoriano : Escudo de Ecuador
+plantel : Escuela
+tallador(a) : Escultor(a)
+bolígrafo : Esfero
+esmerarse : Esforzarse
+empeño : Esfuerzo
+barniz de uñas : Esmalte de uñas
+smog : Esmog
+gargüero : Esofago
+dorso : Espalda
+castellano : Español
+espantaaves : Espantapajaros
+paleta : Espatula
+singular : Especial
+experticia : Especialidad
+experto(a) : Especialista
+perfeccionarse : Especializarse
+puntualizar : Especificar
+aguardar : Esperar
+infiltrado(a) : Espia
+vigilar : Espiar
+infiltración : Espionaje
+grano : Espinilla
+ánima : Espiritu
+espíritu divino : Espiritu santo
+grilletes : Esposas
+cónyuge : Esposo(a)
+merengue : Espumilla
+firme : Estable
+radicarse : Establecerse
+polideportivo : Estadio
+condición : Estado
+fraude : Estafa
+timador(a) : Estafador(a)
+imprimir : Estampar
+grabado : Estampado
+franqueo : Estampilla
+estar harto : Estar hasta la coronilla
+escultura : Estatua
+oriente : Este
+infecundo(a) : Esteril
+infecundidad : Esterilidad
+fonendoscopio : Estetoscopio
+cúter : Estilete
+incentivar : Estimular
+incentivo : Estimulo
+elongar : Estirar
+barriga : Estomago
+estos son los requerimientos : Estos son los requisitos
+quedo a su disposición : Estoy a sus ordenes
+táctica : Estrategia
+lucero : Estrella
+equinodermo marino : Estrella de mar
+debutar : Estrenar
+debut : Estreno
+constipado(a) : Estreñido(a)
+constipación : Estreñimiento
+riguroso(a) : Estricto(a)
+prepararse : Estudiar
+idiota : Estupido(a)
+fase : Etapa
+perpetuo(a) : Eterno(a)
+moral : Etica
+protestante : Evangelico(a)
+volatilizarse : Evaporarse
+eludir : Evitar
+desarrollo : Evolucion
+transformarse : Evolucionar
+sobredimensionar : Exagerar
+euforia : Exaltacion
+evaluación : Examen
+ponderar : Evaluar
+retroexcavadora : Excavadora
+sobresaliente : Excelente
+inusual : Excepcional
+singularmente : Excepcionalmente
+muestra : Exhibicion
+triunfo : Exito
+esperanza : Expectativa
+aclarar : Explicar
+rastrear : Explorar
+reventar : Explotar
+estallido : Explosion
+exteriorizarse : Expresarse
+gestual : Expresivo(a)
+echar : Expulsar
+destierro : Expulsion
+amplio(a) : Extenso(a)
+desaparición : Extincion
+adicional : Extra
+recabar datos : Extraer informacion
+añorar : Extrañar
+foráneo(a) : Extranjero(a)
+magnífico(a) : Extraordinario(a)
+expeler : Eyacular
+hacer presión : Ejercer fuerza
+proporcionar : Entregar
+escayolar : Enyesar
+escolaridad : Estudios
+plantear : Exponer
+presentación : Exposicion
+arrancar : Enfocar
+encauzarse : Enfocarse
+a solas : En privado
+refrigerar : Enfriar
+escote triangular : Escote en v
+el cheque está sin respaldo : El cheque no tiene fondos
+elaborar : Fabricar
+factoría : Fabrica
+alegoría : Fabula
+simple : Facil
+agilizar : Facilitar
+comprobante : Factura
+ceñidor : Faja
+pollera : Falda
+errar : Fallar
+finar : Fallecer
+falaz : Falso(a)
+ausentarse : Faltar
+parentela : Familia
+hogareño(a) : Familiar
+célebre : Famoso(a)
+espectro : Fantasma
+espectáculo : Farandula
+boticario(a) : Farmaceutico
+botica : Farmacia
+baliza : Faro
+importunar : Fastidar
+incomodar : Fastidiar
+benevolencia : Favor
+beneficiado(a) : Favorecido(a)
+telefax : Fax
+data : Fecha
+preñar : Fecundar
+concepción : Fecundacion
+confederación : Federacion
+enhorabuena : Felicitacion
+igualitarismo : Feminismo
+igualitarista : Feminista
+antiestético(a) : Feo(a)
+kermés : Feria
+quincallería : Ferreteria
+enriquecer : Fertilizar
+estercoladura : Fertilizacion
+espectaculo : Festival
+embrión : Feto
+tallarín : Fideo
+calentura : Fiebre
+devoto(a) : Fiel
+hierro : Fierro
+jolgorio : Fiesta
+polígono : Figura geometrica
+sujetador : Fijador
+inmutable : Fijo(a)
+hilera : Fila
+videocámara : Filmadora
+difunto(a) : Finado
+difuntos : Finados
+postrero(a) : Final
+peculio : Finanzas
+rubricar : Firmar
+rúbrica : Firma
+rúbricas : Firmas
+husmear : Fisgonear
+cotilla : Fisgon(a)
+corporal : Fisico(a)
+culturista : Fisicoculturista
+kinesioterapia : Fisioterapia
+escuálido(a) : Flaco(a)
+budín : Flan
+caramillo : Flauta
+saeta : Flecha
+maleable : Flexible
+holgazán(a) : Flojo(a)
+capullo : Flor
+brotar : Florecer
+jarrón : Florero
+rosetón : Floron
+boyar : Flotar
+otárido : Foca
+bombilla : Foco
+hoguera : Fogata
+costumbrista : Folclorico(a)
+opúsculo : Folleto
+ahorro preventivo : Fondo de reserva
+seguro exequial : Fondo mortuorio
+capitales : Fondos
+medicolegal : Forense
+adiestramiento : Formacion
+ceremonioso(a) : Formal
+inicializar : Formatear
+coloquio : Foro
+coaccionar : Forzar
+encendedor : Fosforera
+xerocopiadora : Fotocopiadora
+instantánea : Fotografia
+retratar : Fotografiar
+malograrse : Fracasar
+debacle : Fracaso
+rotura : Fractura
+navío : Fragata
+fresón : Frutilla
+sofreír : Freir
+alubia : Frejol
+ralentizar : Frenar
+tope : Freno
+delantera : Frente
+lozano(a) : Fresco(a)
+gélido(a) : Frio(a)
+fritanga : Fritada
+lindero : Frontera
+decepcionarse : Frustrarse
+desaliento : Frustracion
+fruto : Fruta
+candela : Fuego
+manantial : Fuente
+externamente : Fuera
+robusto(a) : Fuerte
+tabaquista : Fumador(a)
+forro : Funda
+esencial : Fundamental
+institución : Fundacion
+precursor(a) : Fundador(a)
+licuarse : Fundirse
+tanatorio : Funeraria
+airado(a) : Furioso(a)
+disyuntor : Fusible
+balompié : Futbol
+football americano : Futbol americano
+balompedista : Futbolista
+porvenir : Futuro
+antiparras acuáticas : Gafas de nadar
+cosmos : Galaxia
+ponedora : Gallina
+cantor : Gallo
+reses : Ganado
+rédito : Ganancia
+garfio : Gancho
+fiador : Garante
+caución : Garantia
+ácaro : Garrapata
+aeriforme : Gaseoso
+carburante : Gasolina
+servicentro : Gasolinera
+derrochador(a) : Gastador
+derrochar : Gastar
+desembolso : Gasto
+dispepsia : Gastritis
+culinaria : Gastronomia
+elevador hidráulico : Gata hidraulica
+reptar : Gatear
+palmípeda : Gaviota
+felino(a) : Gato(a)
+mellizos(as) : Gemelos(as)
+planta eléctrica : Generador electrico
+global : General
+dadivoso(a) : Generoso(a)
+lumbrera : Genio
+corógrafo(a) : Geografo(a)
+corografía : Geografia
+geociencia : Geologia
+geocientífico(a) : Geologo(a)
+mensuración : Geometria
+directivo(a) : Gerente(a)
+palestra : Gimnasio
+contorsionista : Gimnasta
+nevero : Glaciar
+aerostato : Globo
+corpúsculos : Globulos
+tanto : Gol
+artillero(a) : Goleador(a)
+paseriforme : Golondrina
+chuchería : Golosina
+glotón(a) : Goloso(a)
+aporrear : Golpear
+porrazo : Golpe
+caucho : Goma
+obeso(a) : Gordo(a)
+simio : Gorila
+cachucha : Gorra
+cofia infantil : Gorro de bebe
+gotícula : Gota
+cuentagotas : Gotero
+dictáfono : Grabadora de voz
+registrar : Grabar
+filmar : Grabacion
+agradezco su espera : Gracias por su paciencia
+escalones : Gradas
+nivel : Grado
+titulación : Graduacion
+titularse : Graduarse
+calibrador : Graduador
+morfosintaxis : Gramatica
+enorme : Grande
+pedriscar : Granizar
+pedrisco : Granizo
+criadero : Granja
+engrapar : Grapar
+engrapadora : Grapadora
+sebo : Grasa
+gratuito(a) : Gratis
+severo(a) : Grave
+ortóptero : Grillo
+vociferar : Gritar
+vocinglero(a) : Griton(a)
+arenga bélica : Grito de guerra
+vulgar : Grosero(a)
+espesor : Grosor
+cabria : Grua
+voluminoso(a) : Grueso(a)
+refunfuñar : Gruñir
+cascarrabias : Gruñon(a)
+guamo : Guaba
+graviola : Guanabana
+paca : Guanta
+manopla : Guante
+custodio : Guardaespaldas
+custodiar : Guardar
+reservar la información : Guardarse la informacion
+parvulario : Guarderia
+centinela : Guardia
+panza : Guata
+mondongo : Guatita
+caramba : Guau
+conflicto : Guerra
+insurgencia : Guerrilla
+insurgente : Guerrillero(a)
+orientador(a) : Guia
+folleto turístico : Guia turistica
+acompañante turístico : Guia turistico
+cortadora : Guillotina
+decapitador : Guillotino
+festón : Guirnalda
+vihuela : Guitarra
+larva : Gusano
+complacer : Gustar
+placer conocerte : Gusto de conocerte
+Sinonimo_aproximado : Glosa
+diestro(a) : Habil
+locuaz : Hablador(a)
+conversar : Hablar
+en tiempos remotos : Hace mucho tiempo
+tiempo sin verte : Hace tiempo que no te veo
+realizar : Hacer
+fingir ingenuidad : Hacer el inocente
+hacer fraude : Hacer trampa
+fingir ignorancia : Hacerse el loco(a)
+segur : Hacha
+latifundio : Hacienda
+hechicera : Hada
+forme fila : Haga fila
+jalar : Halar
+rapaz : Halcon
+apetito : Hambre
+emparedado : Hamburguesa
+componentes : Hardware
+saciado(a) : Harto(a)
+incluso : Hasta
+ya basta : Hasta aqui llegue
+ponte al lado : Hazte a un lado
+nevería : Heladeria
+glacial : Helado
+helado suave : Helado de maquina
+aeronave : Helicoptero
+semiesfera : Hemisferio
+diálisis : Hemodialisis
+sangrado : Hemorragia
+hepatopatía : Hepatitis
+legar : Heredar
+congénito(a) : Hereditario(a)
+legado : Herencia
+legado genético : Herencia genetica
+lesión : Herida
+lesionado(a) : Herido(a)
+lastimar : Herir
+fraterna : Hermana
+mediohermano(a) : Hermanastro(a)
+fraterno : Hermano
+protusión : Hernia
+calentura labial : Herpes bucal
+utensilio : Herramienta
+ebullicionar : Hervir
+represa : Hidroelectrica
+jacuzzi : Hidromasaje
+víscera : Higado
+breva : Higo
+entenado(a) : Hijastro(a)
+cordel : Hilo
+inflar : Hinchar
+tumefacción : Hinchazon
+brahmanismo : Hinduismo
+hipercinético(a) : Hiperactivo(a)
+singulto : Hipo
+hipoacúsico(a) : Hipoacusico
+fingimiento : Hipocresia
+simulado(a) : Hipocrita
+gravamen : Hipoteca
+crediticio(a) : Hipotecario(a)
+cronista : Historiador(a)
+vagabundo(a) : Hobo
+air hockey : Hockey de mesa
+vivienda : Hogar
+saludos : Hola
+varón : Hombre
+espaldilla : Hombro
+agasajar : Homenajear
+asesinato : Homicidio
+gay : Homosexual
+sincera : Honesta
+honradez : Honor
+enaltecer : Honrar
+itinerario : Horario
+horario de servicio : Horario de atencion al publico
+formiga : Hormiga
+cosquilleo : Hormigueo
+secreción : Hormona
+cocer : Hornear
+vaticinio : Horoscopo
+pasador : Horquilla
+espantoso(a) : Horrible
+nosocomio : Hospital
+perrito caliente : Hot dog
+hospedaje : Hotel
+falce : Hoz
+concentrador USB : Hub USB
+orificios : Huecos
+cesación : Huelga
+parista : Huelguista
+desamparado(a) : Huerfano(a)
+óvulo : Huevo
+lerdo(a) : Huevon
+mortal : Humano
+acuoso(a) : Humedo
+modestia : Humildad
+modesto(a) : Humilde
+ciclón : Huracan
+escarbarse la nariz : Hurgar en la nariz
+esencia : Identidad
+acreditación : Identificacion
+referente : Idolo
+templo : Iglesia
+inculto(a) : Ignorante
+semejante : Igual
+equivalencia : Igualdad
+ilícito(a) : Ilegal
+estampa : Imagen
+figurar : Imaginar
+magneto : Iman
+remedar : Imitar
+repercusión : Impacto
+objetivo(a) : Impersonal
+dispositivo hormonal : Implante anticonseptivo
+prótesis auditiva : Implante coclear
+relevante : Importante
+inviable : Imposible
+tipografía : Imprenta
+estampadora : Impresora
+contratiempo : Imprevisto
+tributo municipal : Impuesto predial
+aperturar : Inaugurar
+apertura oficial : Inauguracion
+prender fuego : Incendiar
+siniestro : Incendio
+instigar : Incitar
+inserción : Inclusion
+disparatado(a) : Incoherente
+diáfano(a) : Incoloro(a)
+pérdida de control : Incontinencia
+cámara térmica : Incubadora
+vacilación : Indecision
+autónomo(a) : Independiente
+señalar : Indicar
+señalamiento : Indicadicacion
+apropiado(a) : Indicado(a)
+originario(a) : Indigena
+mediato(a) : Indirecto
+fútbol sala : Indorfutbol
+inactivo(a) : Inerte
+voluble : Inestable
+niñiles : Infantiles
+ataque cardíaco : Infarto
+contaminar : Infectar
+contagio : Infeccion
+subalterno(a) : Inferior
+desleal : Infiel
+averno : Infierno
+carestía : Inflacion
+incidir : Influir
+ascendiente : Influencia
+coloquial : Informal
+computación : Informatica
+reporte : Informe
+proyectista : Ingeniero(a)
+cándido(a) : Ingenuo(a)
+inculpable : Inocente
+anglosajón : Ingles
+matricular : Inscribir
+alistamiento : Inscripcion
+bicho : Insecto
+fecundación asistida : Inseminacion artificial
+persistente : Insistente
+desvelo : Insomnio
+soso(a) : Insipido(a)
+academia : Instituto
+formador(a) : Instructor(a)
+artefacto sonoro : Instrumento musical
+ofender : Insultar
+agravio : Insulto
+cohesión : Integracion
+permuta : Intercambio
+motivación : Interes
+atractivo(a) : Interesante
+atraer : Interesar
+mundial : Internacional
+versionista : Interprete
+cruce : Interseccion
+participación : Intervencion
+tripa delgada : Intestino delgado
+tripa gruesa : Intestino grueso
+anegación : Inundacion
+anegarse : Inundarse
+idear : Inventar
+creador(a) : Inventor
+catalogar : Inventariar
+existencias : Inventario
+vivero cubierto : Invernadero
+sin esqueleto : Invertebrado(a)
+financiar : Invertir
+indagador(a) : Investigador
+hibernal : Invierno
+convidar : Invitar
+convite : Invitacion
+inocular : Inyectar
+pinchazo : Inyeccion
+colérico(a) : Iracundo(a)
+enojo : Iras
+anómalo(a) : Irregular
+enojarse : Irritarse
+olvidarse de pronto : Irse la idea
+islote : Isla
+impuesto al valor agregado : Iva
+siniestra : Izquierda
+azar con dados : Juego de dados
+inyector : Jeringa
+puerco montés : Jabali
+pastilla limpiadora : Jabon
+portajabón : Jabonera
+resollar : Jadear
+resollante : Jadeante
+fiambre : Jamon
+sirope : Jarabe
+horticultor(a) : Jardinero(a)
+pajarera : Jaula
+vaquero(a) : Jean
+gerencia : Jefatura
+jerarca : Jefe(a)
+reactor : Jet
+mozo(a) : Joven
+mocedad : Juventud
+cántaro : Jarra
+alhaja : Joya
+alhajería : Joyeria
+orfebre : Joyero
+palanca : Joystick
+pensionarse : Jubilarse
+pensión : Jubilacion
+pensionista : Jubilado(a)
+prueba de habilidad : Juego de destreza
+atracción mecánica : Juego mecanico
+fuegos artificiales : Juegos pirotecnicos
+hebreo(a) : Judio(a)
+magistrado(a) : Juez(a)
+recrearse : Jugar
+néctar : Jugo
+litigio : Juicio
+sesión : Junta
+reunir : Juntar
+unidos(as) : Juntos
+aseverar : Jurar
+tribunal : Juzgado
+trazo : Linea
+establecimiento : Local
+abrillantar : Lustrar
+bello(a) : Lindo(a)
+elastano : Licra
+opulento(a) : Lujoso(a)
+dedalo : Laberinto
+belfo : Labio
+fisura labial : Labio leporino
+tallar : Labrar
+amamantar : Lactar
+lechero(a) : Lacteo(a)
+parlanchin(a) : Labioso(a)
+ratero(a) : Ladron(a)
+estanque : Lago
+albufera : Laguna
+luminaria : Lampara
+vellon : Lana
+crustaceo : Langosta
+osado(a) : Lanzado(a)
+celioscopia : Laparoscopia
+pintalabios : Lapiz labial
+puntero optico : Lapiz optico
+portatil : Laptop
+vete : Largate
+dilatado(a) : Largo(a)
+pulsacion : Latido
+palpitar : Latir
+magma : Lava
+lavamanos : Lavabo
+lavarropas : Lavadora
+autolavado : Lavadora de autos
+tintoreria : Lavanderia
+higienizarse : Lavarse
+lavaplatos : Lavavajilla
+ensenanza : Leccion
+reproductor de CD : Lector de CD
+registro del medidor de agua : Lectura del medidor de agua
+registro del medidor de luz : Lectura del medidor de luz
+interpretar : Leer
+jurisperito(a) : Legista
+remoto(a) : Lejos
+idioma signado : Lengua de señas
+menestra : Lenteja
+micas de contacto : Lentes de contacto
+pausado(a) : Lento(a)
+felino : Leon
+felido : Leopardo
+hanseniasis : Lepra
+afeccion : Lesion
+lisiar : Lesionar
+grafema : Letra
+fermento : Levadura
+alzar : Levantar
+erguirse : Levantarse
+ordenamiento : Ley
+autonomia : Libertad
+autonomo(a) : Libre
+cartilla militar : Libreta militar
+tomo : Libro
+permiso de conducir : Licencia de conducir
+botilleria : Licoreria
+cabecilla : Lider
+atadura : Ligadura
+citrico : Lima
+limauñas : Lima de uñas
+restringir : Limitar
+linde : Limite
+acido(a) : Limon
+mendigo(a) : Limosnero(a)
+sanear : Limpiar
+pulcro(a) : Limpio
+filologo(a) : Linguista
+farol : Linterna
+finiquito : Liquidacion
+nomina : Lista
+fluido(a) : Liquido(a)
+preparado(a) : Listo(a)
+textual : Literal
+ligera : Liviana
+ligero : Liviano
+camelido : Llama
+telefonar : Llamar
+denominarse : Llamarse
+neumatico : Llanta
+planada : Llanura
+arribo : Llegada
+arribar : Llegar
+colmar : Llenar
+repleto(a) : Lleno(a)
+complete estos formularios : Llene estos formularios
+saturado : Lleno
+trasladar : Llevar
+sollozar : Llorar
+plañidero(a) : Lloron(a)
+lagrimoso(a) : Lloroso(a)
+aguacero : Lluvia
+lo expreso : Lo dijo
+canido : Lobo(a)
+sitio : Lugar
+demente : Loco(a)
+cabina : Locutorio
+barro : Lodo
+coherente : Logico(a)
+emblema : Logo
+merito : Logro
+cerro : Loma
+anelido : Lombriz de tierra
+viandera : Lonchera
+extension : Longitud
+psitacido : Loro
+parcela : Lote
+lucha profesional : Lucha libre
+seguir : Luego
+centro laboral : Lugar de trabajo
+satelite : Luna
+viaje nupcial : Luna de miel
+nevus : Lunar
+ampliador : Lupa
+luz titilante : Luz parpadeante
+zona de paso : Lugar de transito
+tonico : Locion
+leña : Madera
+maderera : Madereria
+magíster : Maestria
+ilusionista : Mago(a)
+grandeza : Majestad
+erróneamente : Mal
+mal augurio : Mala suerte
+insolente : Malcriado(a)
+indisposición : Malestar
+portafolio : Maletin
+valija : Maleta
+perverso(a) : Malicioso(a)
+pernicioso(a) : Malo(a)
+madre : Mama
+vivíparo : Mamifero
+amanecer : Mañana
+mácula : Mancha
+disponer : Mandar
+clementina : Mandarina
+conducto : Manguera
+pronunciarse : Manifestarse
+proclama : Manifestacion
+manejo : Manipulacion
+mañoso(a) : Manipulador(a)
+batoidea : Mantarraya
+manteca : Mantequilla
+bricolaje : Manualidades
+poma : Manzana
+camomila : Manzanilla
+croquis : Mapa
+croquis referencial : Mapa de ubicacion
+cosmético : Maquillaje
+aparato rasurador : Maquina de afeitar
+grúa de premios : Maquina de peluches
+equipo radiográfico : Maquina de rayos x
+sonajero : Maraca
+parchita : Maracuya
+rotulador : Marcador
+rotuladores de colores : Marcadores de colores
+andadura : Marcha
+desplazarse : Marchar
+borde : Marco
+cannabis : Marihuana
+xilófono : Marimba
+naval : Marino(a)
+guiñol : Marioneta
+lepidóptero : Mariposa
+mazo : Martillo
+superior a : Mas que
+mezcla : Masa
+amasamiento : Masaje
+masoterapeuta : Masajista
+antifaz : Mascara
+tapaboca : Mascarilla
+asesinar : Matar
+desternillarse de risa : Matarse de la risa
+aritmética : Matematica
+insumos : Materiales
+interesado(a) : Materialista
+casamiento civil : Matrimonio civil
+casamiento religioso : Matrimonio religioso
+supremo : Maximo
+aderezo : Mayonesa
+versal : Mayuscula
+me perjudiqué : Me fregue
+me da igual : Me vale
+reparador(a) : Mecanico(a)
+medallón : Medalla
+calceta : Media
+fármaco : Medicamento
+contador hídrico : Medidor de agua
+contador hídrico manipulado : Medidor de agua alterado
+contador eléctrico : Medidor de luz
+contador eléctrico manipulado : Medidor de luz alterado
+biosfera : Medioambiente
+facultativo(a) : Medico(a)
+cuantificar : Medir
+pensativo(a) : Meditabundo(a)
+cnidario : Medusa
+cachete : Mejilla
+optimizar : Mejorar
+comunicado : Memorando
+recuerdo : Memoria
+climaterio : Menopausia
+recado : Mensaje
+repartidor(a) : Mensajero(a)
+periodo : Menstruacion
+arancel : Mensualidad
+de criterio amplio : Mente abierta
+de criterio rígido : Mente cerrada
+falsear : Mentir
+falacia : Mentira
+embustero(a) : Mentiroso(a)
+embustero patológico : Mentiroso compulsivo(a)
+tentempié : Merienda
+tablero : Mesa
+camarero(a) : Mesero(a)
+mezclado(a) : Mestizo(a)
+fusionar : Mezclar
+micrófono lavalier : Microfono de solapa
+pavor : Miedo
+integrante : Miembro
+cefalea : Migraña
+emigrar : Migrar
+éxodo : Migracion
+prodigio : Milagro
+castrense : Militar
+acaudalado(a) : Millonario(a)
+consentido(a) : Mimado(a)
+yacimiento : Mina
+microfalda : Minifalda
+ínfimo(a) : Minimo
+secretaría : Ministerio
+funcionario(a) : Ministro(a)
+discapacitado(a) : Minusvalido
+instante : Minuto
+ametropía : Miopia
+liturgia : Misa
+prototipo : Modelo
+tendencia : Moda
+alterar : Modificar
+escarnio : Mofa
+empapado(a) : Mojado(a)
+humedecer : Mojar
+moledora : Molino
+divisa : Moneda
+billetero : Monedero
+pantalla : Monitor
+religiosa : Monja
+primate : Mono
+primate arborícola : Mono araña
+obsesivo(a) : Monomaniaco(a)
+engendro : Monstruo
+elevacargas : Montacargas
+cabalgar : Montar
+memorial : Monumento
+zarzamora : Mora
+purpúreo(a) : Morado(a)
+dentellar : Morder
+tarascada : Mordida
+mordisco : Mordedura
+trigueño(a) : Moreno(a)
+perecer : Morir
+atormentar : Mortificar
+díptero : Mosca
+mosquitera : Mosquitero
+hostal : Motel
+moto : Motocicleta
+impulsor : Motor
+desplazar : Mover
+desplazamiento : Movimiento
+reubicarse : Mudarse
+mobiliario : Mueble
+mobiliaria : Muebleria
+donjuán : Mujeriego
+acémila : Mula
+penalidad : Multa
+amplificar : Multiplicar
+producto : Multiplicacion
+muchedumbre : Multitud
+planeta : Mundo
+banda de muñeca y cabeza : Muñequera y cintillo
+quiróptero : Murcielago
+tapia : Muro
+fibra : Musculo
+fornido(a) : Musculoso(a)
+cítrico : Naranja
+designar : Nombrar
+mantener en reserva : No decir a nadie algo
+apelativo : Nombre
+patrio(a) : Nacional
+tritón(a) : Nadador(a)
+nado : Natacion
+bracear : Nadar
+glúteo : Nalga
+narco : Narcotraficante
+crema : Nata
+innato(a) : Natural
+arcada : Nausea
+natividad : Navidad
+decembrino(a) : Navideño(a)
+bruma : Neblina
+cerrazón : Niebla
+carencia : Necesidad
+requerir : Necesitar
+requiere la clave personal : Necesita la clave personal
+requiere un garante solvente : Necesita un garante solvente
+requiero la lectura de su medidor de luz : Necesito la lectura de su medidor de luz
+requiero la lectura del medidor de agua : Necesito la lectura del medidor de agua
+requiero un préstamo : Necesito un prestamo
+insensato(a) : Necio(a)
+rehusar : Negar
+desfavorable : Negativo
+pactar : Negociar
+comercio : Negocio
+mercader : Negociante
+pulmonía : Neumonia
+imparcial : Neutral
+cobijo : Nido
+chiquilla : Niña
+respuesta negativa : No (Negacion)
+quedarse corto : No alcanzar
+no cotiza el patrono : No aporta el patrono
+desoír : No hacer caso
+sin inconveniente : No hay problema
+sistema caído : No hay sistema
+no existe : No hay
+no sirve : No vale
+no observé nada : No he visto nada
+no me persuades : No me convences
+no me engañas : No me haces el tonto(a)
+no me palpes : No me toques
+no escuchar : No oir
+ser incapaz : No poder
+carezco de dinero : No tengo plata
+negación : No
+anochecer : Noche
+designación : Nombramiento
+postular : Nominar
+ordinario : Normal
+septentrión : Norte
+apunte : Nota
+escribanía : Notaria
+novedad : Noticia
+inexperto(a) : Novato(a)
+prometido(a) : Novio
+nubarrón : Nube
+meollo : Nucleo
+flamante : Nuevo(a)
+inválido(a) : Nulo(a)
+cifra : Numero
+jamás : Nunca
+dietista : Nutricionista
+alimentar : Nutrir
+requiero información : necesito informacion
+requiero un certificado bancario : necesito un certificado bancario
+no seas entrometido(a) : No seas curioso
+sumiso(a) : Obediente
+fin prioritario : Objetivo principal
+compeler : Obligar
+deber : Obligacion
+turbarse : Obnubilarse
+taller : Obraje
+vigía : Observador(a)
+desfasado(a) : obsoleto(a)
+conseguir : Obtener
+llegar a obtenerlo : Alcanzar algo
+soslayar : Obviar
+nucal : Occipital
+encubrir : Ocultar
+encubierto(a) : Oculto(a)
+atareado(a) : Ocupado(a)
+dentista : Odontologo(a)
+poniente : Oeste
+asesor financiero : Oficial de cuenta
+despacho : Oficina
+brindar : Ofrecer
+oblación : Ofrenda
+oferta : Ofrecimiento
+oculista : Oftalmologo(a)
+cerco : Ojera
+ojo inflamado : Ojo hinchado
+ondulación : Ola
+olfatear : Oler
+aroma : Olor
+juegos olimpicos : Olimpiada
+atlético(a) : Olimpico(a)
+justas : Olimpiadas
+cazuela : Olla
+olla exprés : Olla de presion
+desmemoriar : Olvidar
+desmemoriado(a) : Olvidadizo(a)
+cancerólogo(a) : Oncologo(a)
+elección : Opcion
+cirugía : Operacion
+juzgar : Opinar
+criterio : Opinion
+ocasión : Oportunidad
+decantarse : Optar
+lentejería : Optica
+esperanzado(a) : Optimista
+inmejorable : Optimo(a)
+contrario(a) : Opuesto(a)
+bucal : Oral
+implorar : Orar
+agenda temática : Orden del dia
+mandato : Orden
+mejorana : Oregano
+hospicio : Orfanato
+estructurar : Organizar
+altivo(a) : Orgulloso(a)
+ubicarse : Orientarse
+auténtico(a) : Original
+miccionar : Orinar
+áureo : Oro
+ennegrecer : Oscurecer
+sombrío(a) : Oscuro(a)
+descalcificación : Osteoporosis
+conceder : Otorgar
+otorrino : Otorrinolaringologo
+de nuevo : Otra vez
+espiritista : Ouija
+gónada : Ovario
+borrega : Oveja
+enterizo : Overol
+platillo : Ovni
+herrumbrarse : Oxidarse
+herrumbre : Oxido
+receptor(a) : Oyente
+ictios : Peces
+pisciano(a) : Piscis
+detenerse : Parar
+vehemencia : Pasion
+congreso : Parlamento
+asador : Parrilla
+empedrado : Pavimento
+alardear : Presumir
+alumbrar : Parir
+tenaza : Pinza
+mondar : Pelar
+indultar : Perdonar
+indulgencia : Perdon
+catedrático(a) : Profesor(a)
+al amanecer : Por la mañana
+directamente : Personalmente
+pescadilla : Pescado
+ictio : Pez
+apremiar : Presionar
+poderio : Poder
+golpazo : Puñete
+ramera : Puta
+acecho : Persecucion
+convincente : Persuasivo(a)
+tabla de lavar : Piedra de lavar
+mendicante : Pordiosero(a)
+comprimido : Pastilla
+ungüento : Pomada
+individuo : Persona
+extraviar : Perder
+arenal : Playa
+derrotista : Pesimista
+cual es el destino del crédito : Para que desea el prestamo
+con que fin : Para que
+cual es su motivación para trabajar en el banco : Por que quiere trabajar en el banco
+cual fue el motivo de su salida laboral : Por que salio de su trabajo
+por cual motivo : Por que
+tolerante(a) : Paciente
+adolecer : Padecer
+progenitor : Padre
+padres responsables : Padres de familia
+sitio web : Pagina web
+cancele en caja : Pague en tesoreria o contabilidad
+nación : Pais
+panorama : Paisaje
+volátil : Pajaro
+azada : Pala
+máquina excavadora : Pala mecanica
+cuchara calada : Pala para fritos
+vocablo : Palabra
+alcázar : Palacio
+cetrino(a) : Palido(a)
+espanto : Panico
+arecácea : Palmera
+vara : Palo
+tórtola : Paloma
+hogaza : Pan
+panificadora : Panaderia
+absorbente : Pañal
+glándula : Pancreas
+pandero : Pandereta
+gavilla : Pandilla
+raspadura : Panela
+bayeta : Paño
+tejano : Pantalon
+short : Pantaloneta
+félido : Pantera
+babucha : Pantufla
+mocador : Pañuelo
+patata : Papa
+santa claus : Papa Noel
+psitácido : Papagayo
+citología : Papanicolaou
+fotógrafo : Paparazzi
+patatas fritas : Papas fritas
+papel sanitario : Papel higienico
+papel oficial : Papel membretado
+revestimiento mural : Papel tapiz
+librería : Papeleria
+boleta electoral : Papeleta de votacion
+parotiditis : Paperas
+dupla : Par
+guardachoques : Parachoques
+estación urbana : Parada de bus
+quitaaguas : Paraguas
+equidistante : Paralela
+análogo : Paralelo
+altiplano : Paramo
+suspicaz : Paranoico(a)
+quitasol : Parasol
+adhesivo anticonceptivo : Parche anticonceptivo
+dúo : Pareja
+altavoces : Parlantes
+cese : Paro
+palpebra : Parpado
+jardín : Parque
+estacionar : Parquear
+estacionamiento : Parqueadero
+apartados : Parrafos
+barbacoa : Parrilada
+fracción : Parte
+intervenir : Participar
+interviniente : Participante
+pretérito : Pasado
+tránsito : Pasaje
+practicante : Pasante
+salvoconducto : Pasaporte
+atravesar : Pasar
+deambular : Pasear
+recorrido : Paseo
+receptivo(a) : Pasivo(a)
+cruce peatonal : Paso cebra
+cruce vial : Paso peatonal
+zancadas : Pasos
+engrudo : Pasta
+crema dental : Pasta de dientes
+repostería : Pasteleria
+guía espiritual : Pastor(a)
+tostón : Patacon
+deslizarse : Patinar
+patinista : Patinador(a)
+deslizamiento : Patinaje
+monopatín : Patineta
+corral : Patio
+ánade : Pato
+guajolote : Pavo
+ave real : Pavo real
+bufón : Payaso
+sosiego : Paz
+portazgo : Peaje
+transeúnte : Peaton
+falta : Pecado
+transgresor(a) : Pecador(a)
+efélides : Pecas
+tórax : Pecho
+infantólogo(a) : Pediatra
+solicitar : Pedir
+adherir : Pegar
+tocador : Peinadora
+peine : Peinilla
+acicalarse : Peinarse
+rapado(a) : Pelado(a)
+combatir : Pelear
+onocrótalo : Pelicano
+filme : Pelicula
+riesgo : Peligro
+riesgoso(a) : Peligroso(a)
+bermejo(a) : Pelirrojo(a)
+balón : Pelota
+postizo : Peluca
+felpa : Peluche
+barbería : Peluqueria
+estilista : Peluquero(a)
+coxal : Pelvis
+majadero(a) : Pendejo(a)
+falo : Pene
+acto coital : Penetracion sexual
+saliente : Peninsula
+reflexión : Pensamiento
+retirado(a) : Pensionado
+desventajoso(a) : Peor
+semilla : Pepa
+cohombro : Pepino
+piriforme : Pera
+colgador : Percha
+aprehender : Percibir
+iniciarse sexualmente : Perder la virginidad
+ideal : Perfecto(a)
+barrena : Perforadora
+horadar : Perforar
+fragancia : Perfume
+aromatería : Perfumeria
+diario : Periodico
+reportero(a) : Periodista
+lapso temporal : Periodo de tiempo
+duradero(a) : Permanente
+empero : Pero
+can : Perro(a)
+protagonista : Personaje
+individual : Particular
+malsueño : Pesadilla
+tedioso(a) : Pesado(a)
+condolencia : Pesame
+mancuernas : Pesas
+faenar : Pescar
+establo : Pesebre
+cilio : Pestaña
+cilios : Pestañas
+explosivo : Petardo
+crudo : Petroleo
+tetilla : Pezon
+ludolfina : Pi
+clavicordio : Piano
+trocear : Picar
+hincar : Pinchar
+cima : Pico
+soporte auxiliar : Pie de amigo
+guijarro : Piedra
+extremidades : Pies
+camisón : Pijama
+lavacara : Pileta
+aviador : Piloto
+pimentón : Pimiento
+tenimesa : Pimpon
+ananá : Piña
+sorpresario : Piñata
+esfenisco : Pinguino
+conífera : Pino
+colorear : Pintar
+artista : Pintor(a)
+pigmento : Pintura
+parásito : Piojo
+cachimba : Pipa
+sula de patas azules : Piquero de patas azules
+zigurat : Piramide
+caribe : Piraña
+corsario : Pirata
+saqueo : Pirateria
+hollar : Pisar
+aplastón : Pisoton
+alberca : Piscina
+suelo : Piso
+piso arquitectónico : Planta de edificio
+revólver : Pistola
+émbolo : Piston
+lámina : Placa
+goce íntimo : Placer sexual
+alisador(a) : Planchador
+alisar : Planchar
+alisador : Plancha
+meseta : Planicie
+programar : Planificar
+diseños : Planos
+vegetal : Planta
+hierbas aromáticas : Plantas aromaticas
+sintético : Plastico
+plastimasa : Plastilina
+efectivo : Plata
+cimbalillos : Platillos
+vajilla : Plato
+coso taurino : Plaza de toros
+hoja de cartulina : Pliego de cartulina
+fontanero : Plomero
+gris plomo : Plomo(a)
+graficador : Ploter
+penacho : Pluma
+penachos : Plumas
+multicultural : Pluricultural
+necesitado(a) : Pobre
+desdichado(a) : Pobrecito(a)
+segadora : Podadora
+desramar : Podar
+mandato legal : Poder legal
+corrompido(a) : Podrido(a)
+corromper : Podrir
+lírica : Poesia
+vate : Poeta
+agente : Policia
+agente vial : Policia de transito
+gobernanza : Politica
+estadista : Politico(a)
+resguardo : Poliza
+polluela : Polla
+gallináceo : Pollo
+extremo : Polo
+partícula : Polvo
+malar : Pomulo
+ruana : Poncho
+masivo(a) : Popular
+como muestra : Por ejemplo
+por tanto : Por eso
+en previsión : Por si acaso
+por cuenta propia : Por si mismo(a)
+proporción : Porcentaje
+obscenidad : Pornografia
+obsceno(a) : Pornografico(a)
+vaso dental : Portacepillo de dientes
+marcofotográfico : Portaretrato
+guardameta : Portero
+lusitano(a) : Portugues
+investir : Posesionar
+especialización : Posgrado
+postura sexual : Posicion sexual
+relevo : Posta
+subsiguiente : Posterior
+postación eléctrica : Postes electricos
+delicia : Postre
+presentación digital : Power point
+hoyo : Pozo
+ejercitar : Practicar
+sermonear : Predicar
+difundir doctrina : Predicar (1)
+aprestamiento : Preescritura
+priorizar : Preferir
+interrogante : Pregunta
+protohistoria : Prehistoria
+galardonamiento : Premiacion
+pieza textil : Prenda de vestir
+cautivado(a) : Prendado(a)
+angustiarse : Preocuparse
+alistar : Preparar
+nexo : Preposicion
+capuchón : Prepucio
+introducir : Presentar
+mandatario(a) : Presidente(a)
+tensión arterial : Presion arterial
+reo(a) : Preso(a)
+cárcel : Prision
+crédito hipotecario : Prestamo hipotecario
+crédito personal : Prestamo quirografario
+fiar : Prestar
+cotizar : Presupuestar
+cálculo : Presupuesto
+cautela : Prevencion
+anticipar : Prevenir
+vernal : Primavera
+pariente : Primo(a)
+primordial : Principal
+axioma : Principio
+preferencia : Prioridad
+inconveniente : Problema
+romería : Procesion
+procedimiento : Proceso
+prosperar : Progresar
+generar : Producir
+fabricación : Produccion
+perito : Profesional
+catedráticos : Profesores
+cotización : Proforma
+presupuesto de reparación : Proforma de reparacion
+ahondar : Profundizar
+veto : Prohibicion
+vetar : Prohibir
+prefacio : Prologo
+medianía : Promedio
+asegurar : Prometer
+juramento : Promesa
+deíctico : Pronombre
+presto : Pronto
+articular : Pronunciar
+publicitación : Propaganda
+gratificación : Propina
+intrinseco(a) : Propio(a)
+bonanza : Prosperidad
+boyante : Prospero(a)
+corromperse : Prostituir
+meretriz : Prostituta
+preservar : Proteger
+implante : Protesis
+objetar : Protestar
+normativa : Protocolo
+abastecer : Proveer
+demarcación : Provincia
+venidero(a) : Proximo(a)
+plasmar : Proyectar
+cañón : Proyector
+ensayo : Prueba
+mercadeo : Publicidad
+audiencia : Publico
+villa : Pueblo
+viaducto : Puente
+paso elevado : Puente peatonal
+feriado extendido : Puente vacacional
+portón : Puerta
+sifonáptero : Pulga
+octópodo : Pulpo
+brazalete : Pulsera
+marca : Punto
+exacto(a) : Puntual
+espinar : Punzar
+lezna : Punzon
+escaño : Pupitre
+cupos : Pupos
+papilla : Pure
+genuino(a) : Puro(a)
+quedarse en un sitio : permanecer en un lugar
+costo : Precio
+sujeto hipócrita : Persona de doble cara
+bulto : Paquete
+playa vehicular : Patio de autos
+segregacion : Racismo
+prejuicioso(a) : Racista
+irradiacion : Radiacion
+radiodifusora : Radio
+origen : Raiz
+raid : Rally
+batracio : Rana
+secuestro : Rapto
+extraño(a) : Raro(a)
+frotar : Rascar
+excoriacion : Raspon
+reafirmar : Ratificar
+roedor : Raton
+franja : Raya
+tejo : Rayuela
+casta : Raza
+deduccion : Razonamiento
+deducir : Razonar
+verdadero(a) : Real
+tajada : Rebanada
+destinatario : Receptor
+formula : Receta
+libro culinario : Recetario de cocina
+repeler : Rechazar
+prescripcion medica : Receta Medica
+actual : Reciente
+declamar : Recitar
+exigir : Reclamar
+objecion : Reclamo
+pala recolectora : Recogedor de basura
+compilar : Recopilar
+esparcimiento : Recreo
+cuadrilatero : Rectangulo
+decano(a) : Rector(a)
+decanato : Rectorado
+restablecer : Recuperar
+restablecimiento : Recuperacion
+capital humano : Recursos humanos
+componer : Redactar
+devolver : Reembolzar
+sustituir : Reemplazar
+sustitucion : Reemplazo
+destileria : Refineria
+reflexo : Reflejo
+repoblar : Reforestar
+repoblacion : Reforestacion
+enmienda : Reforma
+amparo : Refugio
+obsequio : Regalo
+estupendo(a) : Regio(a)
+comarca : Region
+territorial : Regional
+oficina registral : Registro Civil
+precepto : Regla
+ordenanza : Reglamento
+tornar : Regresar
+vuelva en dos dias : Regrese en dos dias
+estabilizador electrico : Regulador de voltaje
+dosificar : Regular
+restaurar : Rehabilitar
+restauracion : Rehabilitacion
+monarca : Reina
+carcajear : Reir
+carcajada : Risa
+recurrente : Reiterativa
+vinculo : Relacion
+copula sexual : Relacion sexual
+distender : Relajar
+sosegante : Relajante
+centella : Relampago
+credo : Religion
+guardatiempo : Reloj
+preparado herbal : Remedio natural
+canalete : Remo
+betabel : Remolacha
+traccionar : Remolcar
+trailer : Remolque
+dimitir : Renunciar
+dimision : Renuncia
+distribuir : Repartir
+quietud : Reposo
+regañar : Reprender
+apoderado(a) : Representante
+aplazado(a) : Reprobado(a)
+procreacion : Reproduccion
+lagarto : Reptil
+recambio : Repuesto
+condicion : Requisito
+condiciones de afiliacion : Requisitos de afiliacion
+realzar : Resaltar
+marcatexto : Resaltador
+tobogan : Resbaladera
+liberar : Rescatar
+sinopsis : Reseña
+glosar : Reseñar
+rencor : Resentimiento
+acatarrarse : Resfriarse
+morador(a) : Residente
+tirachinas : Resortera
+avalar : Respaldar
+considerar : Respetar
+inhalar : Respirar
+contestar : Responder
+contestacion : Respuesta
+diligente : Responsable
+sustraccion : Resta
+meson : Restaurante
+sintesis : Resumen
+sintetizar : Resumir
+marcharse : Retirarse
+efigie : Retrato
+realimentacion : Retroalimentacion
+congregarse : Reunirse
+sesion : Reunion
+inverso : Reves
+magazin : Revista
+insurreccion : Revolucion
+soberano : Rey
+sabrosa : Rica
+gustoso(a) : Rico(a)
+cosmetico : Rimel
+recodo : Rincon
+encrespador : Rizador
+hurtar : Robar
+automata : Robot
+peñasco : Roca
+circundar : Rodear
+corva : Rodilla
+suplicar : Rogar
+suplica : Ruego
+bermejo : Rojo
+cilindro : Rollo
+puzle : Rompecabezas
+quebrar : Romper
+quebrado(a) : Roto(a)
+baden : Rompevelocidades
+sonrosado : Rosado
+letrero : Rotulo
+sonrojarse : Ruborizarse
+sonrojo : Rubor
+rueda giratoria : Rueda moscovita
+bucle : Rulo
+habladuria : Rumor
+campestre : Rural
+estruendo : Ruido
+desquite : venganza
+planear : Volar
+depravado(a) : Vicioso(a)
+enlutado(a) : Viudo(a)
+vaho : Vapor
+mantilla : Velo
+brutalidad : Violencia
+asignacion : Viatico
+regurgitar : Vomitar
+recorrer : Viajar
+bochorno : Verguenza
+corredor(a) : Velocista
+plausible : Verosimil
+hueco(a) : Vacio(a)
+inmunizante : Vacuna
+inmunizante bucal : Vacuna oral
+inmunizacion : Vacunacion
+holgazaneria : Vagancia
+holgazan(a) : Vago(a)
+judia tierna : Vainita
+equivaler : Valer
+intrépido(a) : Valiente
+hondonada : Valle
+mérito : Valor
+chupasangre : Vampiro
+ociosidad : Vangancia
+llanero : Vaquero
+lechina : Varicela
+diversos(as) : Varios(as)
+esterilizacion : Vasectomia
+cubilete : Vaso
+dirijase a la ventanilla cinco : Vaya a la ventanilla cinco
+acuda a obras publicas o planificacion : Vaya a obras publicas o planificacion
+suba al sexto piso : Vaya al sexto piso
+colindante : Vecino(a)
+supervision : Veeduria
+cirio : Vela
+mesita : Velador
+pelo axilar : Vello de la axila
+rapidez : Velocidad
+cuentakilometros : Velocimetro
+vaso sanguineo : Vena
+ciervo : Venado
+fajar : Vendar
+comercializar : Vender
+comercializado : Vendido
+toxico : Veneno
+toxico(a) : Venenoso(a)
+desquitarse : Vengarse
+acudir : Venir
+abertura : Ventana
+taquilla : Ventanilla
+refrescador : Ventilador
+mirar : Ver
+estio : Verano
+hablado(a) : Verbal
+hortaliza : Verdura
+observaremos : Veremos
+comprobar : Verificar
+erguido(a) : Vertical
+apice : Vertice
+bolsa biliar : Vesicula biliar
+traje nupcial : Vestido de novia
+senda : Via
+sildenafilo : Viagra
+andariego(a) : Viajero(a)
+aceto : Vinagre
+enlazar : Vincular
+clarete : Vino
+ultrajar : Violar
+ultraje : Violacion
+agresor(a) : Violador(a)
+lila : Violeta
+chelo : Violonchelo
+casto(a) : Virgen
+patogeno : Virus
+lexico : Vocabulario
+coloso : Volcan
+volei : Voleibol
+tolva : Volqueta
+girar : Voltear
+retorno : Vuelta
+magnitud : Volumen
+cooperante : Voluntario(a)
+retornar : Volver
+sufragar : Votar
+fonacion : Voz
+veracidad : Verdad
+elevar cometa : Volar cometa
+privarse : Abstenerse
+abstinencia alimentaria : Ayunar
+maniobrar : Accionar
+operar manualmente : Manipular
+admitir : Aceptar
+acoger : Recibir
+dentro : Adentro
+dependencia : Adiccion
+venerar : Admirar
+idolatrar : Adorar
+sofocar : Ahogar
+aniquilar : Extinguir
+apartarse : Aislarse
+desencaminarse : Desviarse
+de golpe : De una vez
+ebrio : Alcoholico
+beodo(a) : Borracho(a)
+ebriedad : Alcoholismo
+jovial : Alegre
+sonriente : Risueño(a)
+pacto : Alianza
+acuerdo : Convenio
+condimento : Aliño
+aderezo : Mostaza
+acopiar : Almacenar
+atesorar : Coleccionar
+delirio : Alucinacion
+suspicacia : Paranoia
+aprendiz : Estudiante
+cortés : Amable
+respetuoso(a) : Educado(a)
+entorno : Ambiente
+recriminar : Amonestar
+afear : Increpar
+desmenuzar : Analizar
+rayar : Rallar
+congoja : Angustia
+pesadumbre : Pena
+recreación : Animacion
+actividad física : Deporte
+inanición : Anorexia
+zozobra : Ansiedad
+angor : Desesperacion
+precedente : Antecedente
+preliminar : Previo(a)
+emplear : Aplicar
+reclutar : Contratar
+contribución : Aporte
+estimar : Apreciar
+aquilatar : Valorar
+fundamentar : Argumentar
+sustentar : Justificar
+coraza : Armadura
+carapacho : Caparazon
+ropero : Armario
+guardarropa : Closet
+manufactura : Artesania
+higienizar : Asear
+auxiliar : Asistente
+socorrer : Ayudar
+anhelar : Aspirar
+ansiar : Desear
+esmero : Atencion
+entrega : Dedicacion
+apresar : Atrapar
+aprehender : Capturar
+anfiteatro : Auditorio
+autovía : Autopista
+vía rápida : Carretera
+loseta : Azulejo
+tableta : Baldosa
+ensenada : Bahia
+bahía amplia : Golfo
+danza : Baile
+valses : Vals
+cetáceo : Ballena
+tonina : Delfin
+basketbol : Baloncesto
+basket : Basquet
+retrete : Baño
+sanitario : Inodoro(a)
+financista : Banquero
+analista económico(a) : Economista
+quijada : Barbilla
+maxilar : Mandibula
+acumulador : Bateria
+celda : Pila
+remover : Batir
+deponer : Destituir
+infante : Bebe
+chiquillo(a) : Niño
+ingerir : Beber
+alimentarse : Comer
+provecho : Beneficio
+utilidad : Ventaja
+encerado : Betun
+pizarra : Pizarron
+triquini : Biquini
+bañador de dos piezas : Bikini
+morral : Bolso
+macuto : Mochila
+apagafuegos : Bombero(a)
+apagador : Extintor
+suprimir : Borrar
+erradicar : Eliminar
+hechicería : Brujeria
+sortilegio : Magia
+catarro : Bronquitis
+gripa : Resfriado
+chalina : Bufanda
+pañuelo de cuello : Pañoleta
+indagar : Buscar
+escudriñar : Investigar
+excelencia : Calidad
+mérito : Virtud
+serenidad : Calma
+templanza : Paciencia
+crustáceo : Camaron
+braquiuro : Cangrejo
+andar : Caminar
+dar resultado : Funcionar
+cubierta : Capa
+revestimiento : Cobertura
+temperamento : Caracter
+idiosincrasia : Personalidad
+prelado : Cardenal
+prelado mayor : Obispo
+res : Carne
+vacuno : Vaca
+trayectoria : Carrera
+recorrido : Experiencia
+apenas : Casi
+hace poco : Recien
+clasificar : Categorizar
+catalogar : Ordenar
+residuo : Ceniza
+desecho : Desperdicio
+escobilla : Cepillo
+brocha fina : Pincel
+constancia : Certificado
+acreditación : Diploma
+seta : Champiñon
+fungo : Hongo
+silbar : Chiflar
+tocar el silbato : Pitar
+luminosidad : Claridad
+fulgor : Luz
+fogón : Cocina
+anafe : Horno
+acervo : Coleccion
+tradición popular : Folclor
+iniciar : Comenzar
+arrancar : Empezar
+íntegro(a) : Completo(a)
+probo(a) : Honesto(a)
+interactuar : Comunicarse
+conversar : Dialogar
+cabildo : Concejo
+ayuntamiento : Municipio
+noción : Concepto
+noción básica : Idea
+preciso(a) : Concreto(a)
+determinado(a) : Especifico(a)
+galardón : Condecoracion
+lauro : Premio
+galardonar : Condecorar
+recompensar : Premiar
+desorientado(a) : Confundido(a)
+fuera de lugar : Desubicado(a)
+enmendar : Corregir
+rectificar : Reformar
+cerilla : Crayon
+cerillo : Fosforo
+convicción : Creencia
+credo : Fe
+vanidoso(a) : Creido(a)
+engreído(a) : Presumido(a)
+planificación : Cronograma
+plan de trabajo : Programa
+relato : Cuento
+ficción narrativa : Novela
+organismo : Cuerpo
+ser vivo : Entidad
+acatar : Cumplir
+cumplimentar : Obedecer
+legislador(a) : Diputado(a)
+congresista : Parlamentario(a)
+fémina : Dama
+fémina adulta : Mujer
+pronunciamiento : Declaracion
+alegato : Protesta
+sutil : Delicado(a)
+primoroso(a) : Fino(a)
+evidenciar : Demostrar
+visibilizar : Mostrar
+acusación : Denuncia
+ministerio público : Fiscalia
+sección : Departamento
+apartado : Modulo
+competidor(a) : Deportista
+contendiente : Jugador(a)
+vencer : Derrotar
+triunfar : Ganar
+desatender : Descuidar
+hacer caso omiso : Ignorar
+apatía : Desgano
+desidia : Pereza
+vahído : Desmayo
+aturdimiento : Mareo
+insumiso(a) : Desobediente
+díscolo(a) : Rebelde
+identificar : Detectar
+discernir : Reconocer
+molar : Diente
+pieza dental : Muela
+régimen : Dieta
+mandato : Gobierno
+distinto(a) : Diferente
+ajeno(a) : Otro(a)
+listado : Directorio
+índice general : Indice
+camuflar : Disimular
+guarecer : Esconder
+mermar : Disminuir
+aminorar : Reducir
+contienda : Disputa
+enfrentamiento : Partido
+alejamiento : Distanciamiento
+repliegue : Retiro
+surtidor : Distribuidor
+abastecedor : Proveedor
+entretenimiento : Diversion
+pasatiempo : Juego
+educador(a) : Docente
+didacta : Pedagogo(a)
+afligir : Doler
+apenar : Pesar
+obsequiar : Donar
+agasajar : Regalar
+intoxicarse : Drogarse
+embriagarse : Emborracharse
+titubear : Dudar
+tambalearse : Vacilar
+replicar : Duplicar
+calcar : Reproducir
+de trayecto : De linea
+por cable : De linea
+poseedor(a) : Dueño(a)
+tenedor(a) : Propietario(a)
+domicilio : Direccion
+morada : Residencia
+dirigirse : Encaminarse
+trasladarse : Ir
+revisión : Edicion
+supervisión : Inspeccion
+cobertor : Edredon
+cubremesa : Mantel
+animarse : Entusiasmarse
+emocionarse : Ilusionarse
+iniciativa : Emprendimiento
+empeño : Proyecto
+impulsar : Empujar
+publicitar : Promocionar
+diminuto(a) : Enano(a)
+reducido(a) : Pequeño(a)
+vigor : Energia
+fortaleza : Fuerza
+timar : Engañar
+defraudar : Estafar
+interrogar : Entrevistar
+inquirir : Preguntar
+recipiente : Envase
+contenedor : Vasija
+brote : Epidemia
+sarpullido : Erupcion
+ascenso : Escalada
+impulso : Promocion
+seleccionar : Escoger
+decantarse : Elegir
+gameto : Espermatozoide
+célula reproductora : Ovulo
+instaurar : Establecer
+erigir : Fundar
+tensión : Estres
+apremio : Presion
+inspeccionar : Examinar
+chequear : Revisar
+planilla : Excel
+ficha : Formulario
+lucir : Exhibir
+aparentar : Parecer
+plazoleta : Explanada
+espacio público : Plaza
+extractor : Exprimidor
+extractivista : Minero
+perspectiva : Enfoque
+prospectiva : Proyeccion
+potaje : Fanesca
+guiso andino : Locro
+quimera : Fantasia
+ensueño : Ilusion
+asueto : Feriado
+silueta : Figura
+término : Fin
+intervalo : Plazo
+aversión : Fobia
+tirria : Odio
+contorno : Forma
+enunciado : Frase
+cláusula : Oracion
+rociar : Fumigar
+irradiar agua : Regar
+cometido : Funcion
+tarea encomendada : Mision
+sustento : Fundamento
+apoyo : Respaldo
+anteojos : Gafas
+cristales : Lentes
+bizcocho : Galleta
+tarta : Pastel
+apósito : Gasa
+vendaje : Venda
+titulado(a) : Graduado(a)
+broche : Grapa
+sujetador : Prendedor
+leguminosa : Haba
+grano : Legumbre
+nevera : Hielera
+frigorífico : Refrigeradora
+descendiente : Hijo(a)
+paquidermo : Hipopotamo
+folio : Hoja
+carilla : Pagina
+tributo : Homenaje
+gravamen : Impuesto
+vestimenta : Hopas
+atuendo : Ropa
+asado : Hornado
+barbacoa : Parrillada
+acosar : Hostigar
+acechar : Perseguir
+huella : Impresion
+huellazo : Pisada
+apático(a) : Indolente
+haragán(a) : Perezoso(a)
+intranquilo(a) : Inquieto(a)
+desasosegado(a) : Nervioso(a)
+fiscalizador(a) : Inspector(a)
+contralor : Veedor(a)
+colocar : Instalar
+ubicar : Poner
+perspicaz : Inteligente
+sagaz : Perceptivo
+reservado(a) : Intimo(a)
+confidencial : Privado(a)
+tabique : Ladrillo
+paramento : Pared
+llano(a) : Liso(a)
+sin relieve : Plano(a)
+tombola : Loteria
+tómbola : Rifa
+permiso : Licencia
+triturar : Machacar
+pulverizar : Moler
+cuchilla : Machete
+cortaplumas : Navaja
+prodigioso(a) : Magico(a)
+sobrenatural : Milagroso(a)
+entramado : Malla
+retícula : Red
+extremidad : Mano
+miembro inferior : Pierna
+piélago : Mar
+mar abierto : Oceano
+reflexionar : Meditar
+cavilar : Pensar
+propósito : Meta
+finalidad : Objetivo
+medio : Mitad
+planteamiento : Mocion
+plantilla : Molde
+empleados : Personal
+contemplar : Observar
+ver en persona : Presenciar
+esquema : Organigrama
+se lo ruego : por favor
+se lo suplico : Por favor
+pelusilla : Vello
+apartar : Reservar
+extraer : Retirar
