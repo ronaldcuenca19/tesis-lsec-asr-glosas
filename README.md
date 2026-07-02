@@ -20,7 +20,7 @@ tesis-lsec-asr-glosas/
 │
 ├── README.md
 │
-├── 01_entrenamiento_evaluacion_whisper/
+├── 01_entrenamiento_evaluacion_wf/
 │   ├── entrenamiento_evaluacion.ipynb
 │   └── README.md
 │
