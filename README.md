@@ -33,8 +33,8 @@ tesis-lsec-asr-glosas/
 |
 ├── 03_inferencia/
 │   ├── backend_inferencia/
-|       ├── backend_inferencia.ipynb
-|       ├── README.md
+|   |   ├── backend_inferencia.ipynb
+|   |   ├── README.md
 |   ├── frontend_inferencia/
 │       ├── README.md
 |
