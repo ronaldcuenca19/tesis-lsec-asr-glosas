@@ -37,4 +37,3 @@ tesis-lsec-asr-glosas/
 |   └── frontend_inferencia/
 │       └── README.md
 |
-|
